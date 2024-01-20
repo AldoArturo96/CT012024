@@ -9,7 +9,7 @@ public class pruebaTest {
   public void f() {
 	  
 	  WebDriver driver = new ChromeDriver();
-		driver.get("https://uatportalpagos.claropay.com/home/default");
+		driver.get("https://www.google.com.mx/?hl=es");
 
   }
 }
